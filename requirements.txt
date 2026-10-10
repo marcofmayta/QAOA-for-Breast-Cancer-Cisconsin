@@ -1,0 +1,11 @@
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+jupyterlab
+ipykernel
+pytest
+qiskit
+qiskit-aer
+qiskit-ibm-runtime
