@@ -1,4 +1,4 @@
-# QAOA for Real World
+# QAOA for Breast Cancer Cisconsin
 
 Selección de variables mediante QUBO y QAOA con datos Breast Cancer Wisconsin, simulación exacta y hardware IBM Quantum.
 
